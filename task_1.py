@@ -7,4 +7,4 @@ def palindrome_check(word):
    ({ord(c): None for c in  string.whitespace})
     return new_word[::-1].casefold() == new_word.casefold()
     
-print(palindrome_check("Kajak"))
+print(palindrome_check("enter word here"))
